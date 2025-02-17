@@ -1,0 +1,19 @@
+[project]
+name = "hello-world"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aisuite[all]>=0.1.3",
+    "anthropic>=0.40.0",
+    "fastapi>=0.115.8",
+    "google-generativeai>=0.8.2",
+    "numpy>=2.2.3",
+    "ollama>=0.4.7",
+    "openai>=1.63.0",
+    "pandas>=2.2.3",
+    "python-dotenv>=1.0.1",
+    "sqlmodel>=0.0.22",
+    "streamlit>=1.31.0",
+]

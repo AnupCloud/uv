@@ -1,0 +1,15 @@
+python-dotenv
+aisuite[all]
+pandas
+numpy
+streamlit>=1.31.0
+
+# llms library
+openai
+anthropic>=0.40.0
+google-generativeai>=0.8.2
+ollama
+
+# fastapi
+fastapi
+uvicorn
