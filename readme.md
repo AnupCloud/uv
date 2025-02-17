@@ -9,7 +9,7 @@ This guide will walk you through setting up a **Python project** using **UV** fo
 --------------------
 
 Before you start, ensure you have the following installed:
-
+* **Windows** & **Linux** [https://github.com/AnupCloud/uv/tree/main/uv_details]
 * **MacOS** with **Homebrew** installed (brew)
 
 * **Docker** (for containerization)
